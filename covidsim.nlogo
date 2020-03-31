@@ -449,11 +449,11 @@ If a node does recover, there is some probability that it will become resistant 
 
 This basic SIR model is extended to compare strategies to content COVID-19 as follows.
 
-* A percentage of agents in confinement can be selected at the beginning of the simulation. They: are represented with squares, do not move, but can infect or be infected by neighbors. This situation is contemplated by in the “corona-simulator” (https://www.washingtonpost.com/graphics/2020/world/corona-simulator/).
+* A percentage of agents in confinement can be selected at the beginning of the simulation. They: are represented with squares, do not move, but can infect or be infected by neighbors. This situation is contemplated by the “corona-simulator” (https://www.washingtonpost.com/graphics/2020/world/corona-simulator/).
 
-* Additionally, a number of test to detect coronavirus (each time step) can be selected. If positive, the agents are quarantined. They: are represented with triangles, do not move, cannot infect or be infected by neighbors.
+* Additionally, a number of tests to detect coronavirus (each time step) can be selected. If positive, the agents are quarantined. They: are represented with triangles, do not move, cannot infect or be infected by neighbors.
 
-* The test can be over the general population (European policy) or only about infected population which present symptoms (Japanese policy). The percentage of population which will not present symptoms can be selected too.
+* The test can be over the general population (European policy) or only about infected population which present symptoms (Japanese policy). The percentage of the population which will not present symptoms can be selected too.
 
 ## HOW TO USE IT
 
