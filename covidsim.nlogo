@@ -407,16 +407,14 @@ count turtles with [quarantined?]
 ## HOW TO CITE
 Authors: 
 
-*  Emilio Serrano from the Ontology Engineering Group, Deparment of Artificial Intelligence, Universidad Politécnica de Madrid, Spain.
+*  Emilio Serrano from the Ontology Engineering Group, Department of Artificial Intelligence, Universidad Politécnica de Madrid, Spain.
+
+![logoUPM](https://emilioserra.oeg-upm.net/wp-content/uploads/2020/03/logoUPMpequeño.png)
  
-<p align="center"> 
-<img src="https://www.upm.es/sfs/Rectorado/Gabinete%20del%20Rector/Logos/UPM/Escudo%20con%20Leyenda/ESCUDO%20leyenda%20color%20JPG.jpg" width="200">
-<br />
-</p>
  
 ## COPYRIGHT AND LICENSE
 
-Copyright 2019 Emilio Serrano.
+Copyright 2020 Emilio Serrano.
 
 ![CC BY-NC-SA 3.0](http://ccl.northwestern.edu/images/creativecommons/byncsa.png)
 
